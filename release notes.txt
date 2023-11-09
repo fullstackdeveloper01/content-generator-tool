@@ -1,0 +1,18 @@
+Last Modified:08/04/22
+User: Amrit
+
+Version 1.0.6
+Features:
+- media library added, serach provision added
+- Add folder provision added
+- Delete folder provision added
+- Rename folder provision added
+- Sorting for folder and files in popup added
+- user can select imgae for minute and hour hand for clock
+
+Bugs fixes:
+- when uploading file in media library it should not auto close the popup
+- folders are not showing in image. video tool selection
+- show only one news at a time for rss, show title as well
+- Scroll speed variation of text box fixed
+- word wrap of text box fixed

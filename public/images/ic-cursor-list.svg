@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="-4 -4 24 20">
+    <defs><style>.st0{stroke:#FFFFFF;stroke-width:1.35;}.st1{}.a{fill:none;}.st2{stroke:#fff;stroke-width:1;}.b{clip-path:url(#a);}.c{fill:#fff;}</style>
+        <clipPath id="a"><rect class="a" width="16" height="12"/></clipPath>
+    </defs>
+    <polygon class="st0" points="-3.3,-2 -3.3,1.4 0,-2 "/>
+    <polygon class="st1" points="-3.3,-2 -3.3,1.4 0,-2 "/>
+
+
+
+    <polygon class="st2" points="0,4 19,4 19,1 0,1 "/>
+    <polygon class="st2" points="0,9 19,9 19,6 0,6 "/>
+    <polygon class="st2" points="0,14 19,14 19,11 0,11 "/>
+</svg>
